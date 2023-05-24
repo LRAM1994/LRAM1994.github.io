@@ -1,0 +1,14 @@
+.gradient-background {
+    background: linear-gradient(300deg, #A5D7E8, #F2BED1, #0B2447);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+
+.profile-picture{
+    border-radius: 50%;
+}
+
+.letter-ch{
+    font-family: 'PT serif',serif;
+    color: whitesmoke;
+}
